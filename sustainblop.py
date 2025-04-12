@@ -10,7 +10,6 @@ Original file is located at
 import os
 import numpy as np
 import pandas as pd
-from sklearn.preprocessing import MinMaxScaler
 import yfinance as yf
 import matplotlib.pyplot as plt
 import streamlit as st
